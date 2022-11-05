@@ -1,0 +1,19 @@
+LOAD
+ADD new_files new_filesnumbers.csv
+LOAD
+MODIFY img_files "the man is gorgeous" 334
+MODIFY new_files "aaaaa" 123
+HELLO
+MODIFY new_files "new File" 987
+MOVE
+MOVE
+PRINT
+SEARCH "man"
+SEARCH "is "
+SEARCH "hello"
+SELECT 555
+EDIT -l 20
+EDIT -f
+SELECT 334
+EDIT -r
+EDIT -k

@@ -1,0 +1,135 @@
+=======LOAD=======
+there are lots of people in the park/100
+the man is gorgeous/111
+the woman is smiling/200
+the man takes a picture/222
+three peppers are big/300
+the building is like a pyramid/333
+river is under the bridge/400
+The house has windows and doors/444
+the boat sails a big river /500
+The celebrity posed for the picture/555
+there are lots of ariplane/600
+The woman is looking at the man /666
+lena is famous person/700
+the woman is wearing a hat/777
+there are cars and people/800
+airplane fly on the mountain/888
+there are numbers and chinese characters/900
+fence is near trees/999
+=====================
+
+=========ADD=========
+SUCCESS
+=====================
+
+========ERROR========
+100
+=====================
+
+=========MODIFY=========
+SUCCESS
+=====================
+
+=========MODIFY=========
+SUCCESS
+=====================
+
+========ERROR========
+777
+=====================
+
+========ERROR========
+300
+=====================
+
+=========MOVE=========
+SUCCESS
+=====================
+
+========ERROR========
+400
+=====================
+
+=======PRINT=======
+img_files / "there are lots of people in the park" / 100
+new_files / "aaaaa" / 123
+new_files / "eeeee" / 154
+new_files / "jjjjj" / 173
+img_files / "the woman is smiling" / 200
+img_files / "the man takes a picture" / 222
+img_files / "three peppers are big" / 300
+img_files / "the building is like a pyramid" / 333
+img_files / "the man is gorgeous" / 334
+img_files / "river is under the bridge" / 400
+new_files / "lllll" / 412
+new_files / "bbbbb" / 442
+img_files / "The house has windows and doors" / 444
+img_files / "the boat sails a big river " / 500
+img_files / "The celebrity posed for the picture" / 555
+new_files / "ddddd" / 557
+new_files / "ccccc" / 562
+new_files / "hhhhh" / 573
+img_files / "there are lots of ariplane" / 600
+new_files / "fffff" / 664
+img_files / "The woman is looking at the man " / 666
+img_files / "lena is famous person" / 700
+new_files / "kkkkk" / 737
+img_files / "the woman is wearing a hat" / 777
+img_files / "there are cars and people" / 800
+new_files / "mmmmm" / 813
+new_files / "ggggg" / 834
+img_files / "airplane fly on the mountain" / 888
+img_files / "there are numbers and chinese characters" / 900
+new_files / "iiiii" / 903
+new_files / "nnnnn" / 931
+img_files / "fence is near trees" / 999
+=====================
+
+=========SEARCH=========
+"the woman is smiling" / 200
+"the man takes a picture" / 222
+"the man is gorgeous" / 334
+"The woman is looking at the man " / 666
+"the woman is wearing a hat" / 777
+=====================
+
+=========SEARCH=========
+"the woman is smiling" / 200
+"the man is gorgeous" / 334
+"the building is like a pyramid" / 333
+"river is under the bridge" / 400
+"The woman is looking at the man " / 666
+"lena is famous person" / 700
+"the woman is wearing a hat" / 777
+"fence is near trees" / 999
+=====================
+
+========ERROR========
+600
+=====================
+
+=========SELECT=========
+SUCCESS
+=====================
+
+=========EDIT=========
+SUCCESS
+=====================
+
+=========EDIT=========
+SUCCESS
+=====================
+
+=========SELECT=========
+SUCCESS
+=====================
+
+=========EDIT=========
+SUCCESS
+=====================
+
+========ERROR========
+800
+=====================
+
